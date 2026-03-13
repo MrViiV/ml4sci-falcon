@@ -1,0 +1,4 @@
+Graph Transformer Evaluation Metrics
+========================================
+MSE         : 0.000009
+Wasserstein : 0.001355

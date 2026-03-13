@@ -1,0 +1,6 @@
+GNN Classifier Evaluation Metrics
+================================
+Accuracy  : 0.6747
+ROC-AUC   : 0.7376
+Precision : 0.6784
+Recall    : 0.6379

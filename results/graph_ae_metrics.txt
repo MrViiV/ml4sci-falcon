@@ -1,0 +1,4 @@
+Graph Autoencoder Evaluation Metrics
+========================================
+MSE         : 0.016870 ± 0.002391
+Wasserstein : 0.028695 ± 0.013902
