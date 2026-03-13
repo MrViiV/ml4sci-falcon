@@ -1,0 +1,12 @@
+torch
+torchvision
+torch-geometric
+numpy
+matplotlib
+h5py
+scikit-learn
+scikit-image
+scipy
+seaborn
+tqdm
+gdown
